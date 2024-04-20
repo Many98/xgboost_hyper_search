@@ -1,0 +1,2 @@
+model__subsample,model__n_estimators,model__max_leaves,model__max_depth,model__learning_rate,model__gamma,model__colsample_bytree,model__colsample_bynode,mae
+0.5,600,100,6,0.08999,0.5,1,0.95,67747.09143612694
